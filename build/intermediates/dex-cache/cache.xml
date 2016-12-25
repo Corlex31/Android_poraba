@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Robert\AndroidStudioProjects\Poraba\app\build\intermediates\exploded-aar\com.android.support\design\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26384be22ddc74cfe197ebda9edbc7d1fd8bd537">
+        <dex dex="C:\Users\Robert\AndroidStudioProjects\Poraba\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-25.0.0_5f10ce1452a8ff753ad449a792ef92f01f06c9fd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Robert\AndroidStudioProjects\Poraba\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5e497d60f0cb6ce87c458ac5420a46d0fed49bd0">
+        <dex dex="C:\Users\Robert\AndroidStudioProjects\Poraba\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-25.0.0_e8bff208ed70beafe773194d81eec7a98fd2651d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Robert\AndroidStudioProjects\Poraba\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="C:\Users\Robert\AndroidStudioProjects\Poraba\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_b69edf261dd5c6d6a69b87554b465497773e1bc3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Robert\AndroidStudioProjects\Poraba\app\build\intermediates\exploded-aar\com.jjoe64\graphview\3.1.3\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7eedf8c110966da7d80d4198b2e9d1e8051611be">
+        <dex dex="C:\Users\Robert\AndroidStudioProjects\Poraba\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.jjoe64-graphview-3.1.3_1e4a1a6c9c94d474578667bee8864e8b79bb3c60\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Robert\AndroidStudioProjects\Poraba\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d29714cc76b38157e3cbd034c66e1ec808eb4c19">
+        <dex dex="C:\Users\Robert\AndroidStudioProjects\Poraba\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-25.0.0_e0cd1bcce38f7919fe295025067d2bc70f24af2d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Robert\AndroidStudioProjects\Poraba\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3b61a70884adaf0be3fc06c70c801e3e6df13133">
+        <dex dex="C:\Users\Robert\AndroidStudioProjects\Poraba\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_53fd6f7c52413ce29d60e03b0389731aa2050836\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Robert\AndroidStudioProjects\Poraba\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f2e3b9bc1ec25f652e8007ce7774c991e38f6a00">
+        <dex dex="C:\Users\Robert\AndroidStudioProjects\Poraba\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_7fe6a432dea9981905b83d7bfd6516a6da67c8d4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Robert\AndroidStudioProjects\Poraba\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="665d21a8a069c96b4d9e8b434f5096d865b4e261">
+        <dex dex="C:\Users\Robert\AndroidStudioProjects\Poraba\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_45702544721069f63453b8c10985a57c4aee2f95\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Robert\AndroidStudioProjects\Poraba\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f16313785d9ec3599ac1ec3936132dc439a1cd5c">
+        <dex dex="C:\Users\Robert\AndroidStudioProjects\Poraba\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_6b2e4c99b042edc9b3f5d31efe354c89ae988a69\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Robert\AndroidStudioProjects\Poraba\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8bc45ce1f63d1a391fd38b32a201be5a42f9c95d">
+        <dex dex="C:\Users\Robert\AndroidStudioProjects\Poraba\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-25.0.0_9e4ec33fac1a952e17c87b6a4490a13b6506fe04\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Robert\AndroidStudioProjects\Poraba\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="348456558bffee4755d447d9a0ac96888f5801f3">
+        <dex dex="C:\Users\Robert\AndroidStudioProjects\Poraba\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_9f6120fbf1505efc5e7d2bb55362db16cfa24ef3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Robert\AndroidStudioProjects\Poraba\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ee5faf4dee5b6a4364bf51587871047dde7c703a">
+        <dex dex="C:\Users\Robert\AndroidStudioProjects\Poraba\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_031466dcdd4223999fdb480f824bfe6b5a3ecef6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Robert\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.0.0\support-annotations-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a22d2cc94da87b254451fa8ed28afc30b4653773">
+        <dex dex="C:\Users\Robert\AndroidStudioProjects\Poraba\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.0.0_402ccd5f532cffbb9a98dd122b57f91d3a4a508d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Robert\AndroidStudioProjects\Poraba\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="76fb65a4b41ea42dab8a1310ed772a2420c96b52">
+        <dex dex="C:\Users\Robert\AndroidStudioProjects\Poraba\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.0.0_08d3b4b20af1dbdc9fdff0b8d26971a00596c748\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Robert\AndroidStudioProjects\Poraba\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26674000177e45447a0326a6ad84612761199a13">
+        <dex dex="C:\Users\Robert\AndroidStudioProjects\Poraba\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.0.0_c8b3040e1ae89a55b0e552a62753b3afe7be26c5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Robert\AndroidStudioProjects\Poraba\app\build\intermediates\exploded-aar\com.android.support\transition\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0c6d948e6cb9ea6f535d175fb61ba2930719c0e9">
+        <dex dex="C:\Users\Robert\AndroidStudioProjects\Poraba\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-transition-25.0.0_420e9018a6727d9d138a97260fc4a056d68575ef\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Robert\AndroidStudioProjects\Poraba\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="07daa0b6e1d455c82a38422ffe287c18823d339a">
+        <dex dex="C:\Users\Robert\AndroidStudioProjects\Poraba\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.0.0_acc23d36d36ed4f4583aca4ac4b4ff17232a6c93\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Robert\AndroidStudioProjects\Poraba\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="75b1f366ff0bbc78f8b1f7cf0dc82e7c53afef6a">
+        <dex dex="C:\Users\Robert\AndroidStudioProjects\Poraba\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.0.0_638ed2b524775863a2dbd630907fbd4c533d460e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Robert\AndroidStudioProjects\Poraba\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="53a420cd4f49274db6bd43475f8006ba67ef6bbd">
+        <dex dex="C:\Users\Robert\AndroidStudioProjects\Poraba\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-25.0.0_ccb5ac59211c434b236b5ef90b046e6708d67d3b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Robert\AndroidStudioProjects\Poraba\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Robert\AndroidStudioProjects\Poraba\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-25.0.0_a87705ad2a7d0425db08868a80b995265e9343f4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Robert\AndroidStudioProjects\Poraba\app\libs\GraphView-3.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e187192858ff7a5ff7864d6f6a754427e6cb3a87">
+        <dex dex="C:\Users\Robert\AndroidStudioProjects\Poraba\app\build\intermediates\transforms\dex\debug\folders\1000\2\GraphView-3.0_ce541b05a2105a8a8c570e50057ffaa58af2d30e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Robert\AndroidStudioProjects\Poraba\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4ccbcda5c72027c7f7c14be9ff8640d9cb0d8da0">
+        <dex dex="C:\Users\Robert\AndroidStudioProjects\Poraba\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.0.0_cef02307530e908794d46ceceb8ee76ab6d83c60\classes.dex" />
+    </item>
+
+</items>
